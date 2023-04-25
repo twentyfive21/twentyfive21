@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Tina! 
+# Hello there, I'm Tina! 👋
 ---
 ## 🌱 I’m currently learning about Javascript, React, and Node.js!
 ---

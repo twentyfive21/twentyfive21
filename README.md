@@ -1,5 +1,20 @@
-### Hello there 👋, I'm Tina!
-
+### Hello there 👋, I'm Tina! 
+---
+## 🌱 I’m currently learning about Javascript, React, and Node.js!
+---
+## About me:
+## I am excited and enjoying my coding journey one line at a time! I am interested in making games, websites, and love the challenges that coding offers!
+---
+## Here are some skills I have been working for awhile with or have used:
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+---
+## Some languages I have had some exposure to are:
+* C
+* SQL
+* Python
 <!--
 **twentyfive21/twentyfive21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contact Me
----
+
+

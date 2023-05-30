@@ -1,6 +1,6 @@
 # Hello there, I'm Tina! 👋
 ---
-## Contact Info : [tinanguyen.connect@gmail.com]
+## Contact me at : [tinanguyen.connect@gmail.com] 👩🏻‍💼
 ---
 ## 🌱 I’m currently learning about Javascript, React, and Node.js!
 ---

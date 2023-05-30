@@ -2,7 +2,7 @@
 ---
 ##  👩🏻‍💼 Contact me at : tinanguyen.connect@gmail.com 👩🏻‍💼
 ---
-## 🌱 I’m currently learning about Javascript, React, and Node.js!
+## 🌱 I’m currently learning Javascript, React, and Node.js!
 ---
 ## About me:
 ## I am excited and enjoying my coding journey one line at a time! I am interested in making games, websites, and love the challenges that coding offers!

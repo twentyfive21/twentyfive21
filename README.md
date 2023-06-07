@@ -1,5 +1,4 @@
 # Hello there, I'm Tina! 👋  [![](https://visitcount.itsvg.in/api?id=twentyfive21&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
-![image](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ---
 # About Me : 
 * 👩🏻‍💼 Contact me at : tinanguyen.connect@gmail.com 👩🏻‍💼
@@ -52,7 +51,7 @@
 </table>
 <br><br>
 </div>
-
+![image](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 

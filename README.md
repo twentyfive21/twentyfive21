@@ -5,7 +5,7 @@
 * 👩🏻‍💼 Contact me at : tinanguyen.connect@gmail.com 👩🏻‍💼
 * 🌱 I’m currently learning Javascript, React, and Node.js!
 ---
-# Here are some skills I have been working for awhile with or have used : 
+# Some skills I have been working for awhile with or have used : 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>

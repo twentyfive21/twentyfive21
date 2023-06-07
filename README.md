@@ -51,7 +51,11 @@
 </table>
 <br><br>
 </div>
-![image](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
+</p>
+
 
 
 

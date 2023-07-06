@@ -1,10 +1,17 @@
-# Hello there, I'm Tina! 👋  [![](https://visitcount.itsvg.in/api?id=twentyfive21&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
----
-# 👩🏻‍💼 About Me 👩🏻‍💼 
-* Contact me at : tinanguyen.connect@gmail.com 
-* 🌱 I’m currently learning Javascript, React, and Node.js!
----
-# 💻 Skills
+<!-- petals -->
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="200px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="200px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="200px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="200px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="200px" width="20%" style="display:inline;">
+    <h1 align="center">✩&emsp;Hello there, I'm Tina!👋 &emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🥳+Welcome!+🥳;+Have+a+look+around+!+;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"></p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨🌷🪻🌷🪻🌷🪻🌷🪻🌷✨;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"></p>
+  
+
+</div>
+<!-- Skills -->
+<div align="center"><h1 >Skills</h1></div>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>

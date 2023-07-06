@@ -1,10 +1,10 @@
 # Hello there, I'm Tina! 👋  [![](https://visitcount.itsvg.in/api?id=twentyfive21&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
 ---
-# About Me : 
-* 👩🏻‍💼 Contact me at : tinanguyen.connect@gmail.com 👩🏻‍💼
+# 👩🏻‍💼 About Me 👩🏻‍💼 
+* Contact me at : tinanguyen.connect@gmail.com 
 * 🌱 I’m currently learning Javascript, React, and Node.js!
 ---
-# Some skills I have been working for awhile with or have used : 
+# 💻 Skills
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -51,10 +51,17 @@
 </table>
 <br><br>
 </div>
-
+<!-- snake graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
 </p>
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <div>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=twentyfive21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </div>
+</p>
+
 
 
 

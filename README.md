@@ -25,7 +25,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
@@ -63,11 +63,9 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
 </p>
 <!-- activity graph heroku-app start -->
-<p align="center">
-    <div>
+    <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=twentyfive21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </div>
-</p>
 
 
 

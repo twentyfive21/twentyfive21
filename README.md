@@ -8,7 +8,9 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨🌷🪻🌷🪻🌷🪻🌷🪻🌷✨;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"></p>
   
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twentyfive21&theme=nightowl&hide_border=false" alt="GitHub Streak" /><br/>
+</p>
 </div>
 <!-- Skills -->
 <div align="center"><h1 >Skills </h1></div>
@@ -58,17 +60,14 @@
 </table>
 <br><br>
 </div>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twentyfive21&theme=nightowl&hide_border=false" alt="GitHub Streak" /><br/>
-</p>
+<!-- activity graph heroku-app start -->
+    <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=twentyfive21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="90%" alt="activity graph">
+    </div>
 <!-- snake graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
 </p>
-<!-- activity graph heroku-app start -->
-    <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=twentyfive21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </div>
 
 
 

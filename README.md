@@ -7,10 +7,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🥳+Welcome!+🥳;+Have+a+look+around+!+;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"></p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨🌷🪻🌷🪻🌷🪻🌷🪻🌷✨;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"></p>
-  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twentyfive21&theme=nightowl&hide_border=false" alt="GitHub Streak" /><br/>
 </p>
+
+<!-- Streaks & Contributions -->
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=twentyfive21&theme=ambient-gradient&hide_border=true&border_radius=4&card_width=800"/></a>
+</div>
+
 </div>
 <!-- Skills -->
 <div align="center"><h1 >Skills </h1></div>
@@ -75,6 +78,9 @@
 
 <!--]
 **twentyfive21/twentyfive21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=twentyfive21&theme=rose-pine&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 

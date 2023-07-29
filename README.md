@@ -61,11 +61,11 @@
 </div>
 <!-- activity graph heroku-app start -->
     <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=twentyfive21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="90%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=twentyfive21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </div>
 <!-- snake graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" width="100%"/>
 </p>
 
 

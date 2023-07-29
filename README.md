@@ -58,6 +58,9 @@
 </table>
 <br><br>
 </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twentyfive21&theme=nightowl&hide_border=false" alt="GitHub Streak" /><br/>
+</p>
 <!-- snake graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />

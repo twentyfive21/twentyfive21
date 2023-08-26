@@ -16,7 +16,7 @@
 
 </div>
 <!-- Skills -->
-<div align="center"><h1>S k i l l s </h1></div>
+<div align="center"><h1>Tech Stack</h1></div>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
